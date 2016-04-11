@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PageLayout", "PageLayout\PageLayout.csproj", "{3E94BEB8-3CD4-40CC-BE53-A34B59E93D2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PageLayoutTest", "PageLayoutTest\PageLayoutTest.csproj", "{E27DBFC3-7B09-4D05-A760-1E60CB996509}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E94BEB8-3CD4-40CC-BE53-A34B59E93D2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E94BEB8-3CD4-40CC-BE53-A34B59E93D2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E94BEB8-3CD4-40CC-BE53-A34B59E93D2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E94BEB8-3CD4-40CC-BE53-A34B59E93D2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E27DBFC3-7B09-4D05-A760-1E60CB996509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E27DBFC3-7B09-4D05-A760-1E60CB996509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E27DBFC3-7B09-4D05-A760-1E60CB996509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E27DBFC3-7B09-4D05-A760-1E60CB996509}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
